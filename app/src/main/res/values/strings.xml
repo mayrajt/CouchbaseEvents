@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CouchbaseEvents</string>
+    <string name="action_settings">Settings</string>
+    <string name="crear_doc">Crear documento</string>
+    <string name ="actualizar_doc">Actualizar documento</string>
+    <string name="eliminar_doc">Eliminar documento y bd</string>
+    <string name ="consulta_doc">Consultar documento</string>
+</resources>
